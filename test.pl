@@ -1,1 +1,1 @@
-print "Hello\n";
+print "Hello, first file\n";
